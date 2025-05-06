@@ -35,3 +35,13 @@ now create setup.py and requirements.txt
 
 
 type= pip install -r requirements.txt
+
+
+----------------------------------------------------------
+
+
+create exception.py, logger.py, utils.py
+create components folder->__init__.py,  data_ingestion.py,  data_transformation.py,  model_trainer.py
+create pipeline folder-> __init__.py, predict_pipeline.py,  train_pipeline.py
+
+# to run logger file = python src/logger.py 
