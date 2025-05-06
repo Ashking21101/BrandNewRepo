@@ -31,3 +31,7 @@ to make chnages and add it to git steps
 
 ----------------------------------------------------------
 now create setup.py and requirements.txt
+
+
+
+type= pip install -r requirements.txt
